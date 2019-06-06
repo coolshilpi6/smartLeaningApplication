@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# smartLeaningApplication Modified
-=======
+
 # Smart Learning Application
 >>>>>>> test
 This is a quiz application which has some GK questions.
